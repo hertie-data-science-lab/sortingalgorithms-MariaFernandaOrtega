@@ -6,15 +6,18 @@ Maria Jose Lee
 Maria Fernanda Ortega
 
 ## Project Files
-This project contains four tabs:
+This project contains six tabs:
 - bucket_insertion: bucket algorithm sorted by Insertion algorithm
 - test_bucket_insertion: testing the algorithm bucket_insertion
 - bucket_radix:  bucket algorithm sorted by Radix algorithm
 - test_bucket_radix: testing the algorithm bucket_radix
+- insertion: insertion sort algorithm
+- radix: radix sort algorithm
 
 ## Time complexity 
 - Insertion Sort: O(n^2)
 - Radix Sort: O(d(n+k)), where d is the number of digits in the maximum number and k is the radix (for example, k=10 for decimal numbers)
+
 
 When timing both algorithms in this project we confirm that Radix Sort is more time efficient 
 
