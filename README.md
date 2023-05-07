@@ -2,8 +2,8 @@
 # Sorting Algorithms
 
 ## Team members:
-Maria Jose Lee
-Maria Fernanda Ortega
+- Maria Jose Lee
+- Maria Fernanda Ortega
 
 ## Project Files
 This project contains six tabs:
