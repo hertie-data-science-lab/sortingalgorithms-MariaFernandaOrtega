@@ -19,3 +19,5 @@ def insertionSort(array):
         
         # Place key at after the element just smaller than it.
         array[j + 1] = key
+
+    return array

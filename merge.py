@@ -4,7 +4,10 @@ Created on Mon Apr 24 08:51:55 2023
 
 @author: Hannah
 """
+import sys
 
+# Increase the maximum recursion depth to 10,000
+sys.setrecursionlimit(10000)
 def mergeSort(myList):
     if len(myList) > 1:
         mid = len(myList) // 2
@@ -44,3 +47,5 @@ def mergeSort(myList):
             myList[k]=right[j]
             j += 1
             k += 1
+    return myList
+
