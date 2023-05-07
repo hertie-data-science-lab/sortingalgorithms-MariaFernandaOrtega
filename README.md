@@ -14,7 +14,7 @@ This project contains four tabs:
 
 ## Time complexity 
 - Insertion Sort: O(n^2)
--Radix Sort: O(d(n+k)), where d is the number of digits in the maximum number and k is the radix (for example, k=10 for decimal numbers)
+- Radix Sort: O(d(n+k)), where d is the number of digits in the maximum number and k is the radix (for example, k=10 for decimal numbers)
 
 When timing both algorithms in this project we confirm that Radix Sort is more time efficient 
 
