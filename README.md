@@ -5,7 +5,7 @@
 Maria Jose Lee
 Maria Fernanda Ortega
 
-## Code Explanation 
+## Project Files
 This project contains four tabs:
 - bucket_insertion: bucket algorithm sorted by Insertion algorithm
 - test_bucket_insertion: testing the algorithm bucket_insertion
